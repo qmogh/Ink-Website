@@ -3,7 +3,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    background: white;
+    background: #cae7c1;
 }
 
 body.dark {
@@ -80,7 +80,7 @@ h3.written-in-ink {
     margin: 0 auto;
     padding: 20px;
     padding-top: 4em;
-    background: white;
+    background: #cae7c1;
 }
 
 .dark .container {
@@ -96,7 +96,7 @@ p {
 
 a {
     font-weight: 700;
-    color: #b97c2c;
+    color: #B57EDC;
     font-family: sans-serif;
     transition: color 0.6s;
     text-decoration: none;
@@ -152,7 +152,7 @@ p.choice {
 
 /* first choice */
 :not(.choice) + .choice {
-    padding-top: 1em; 
+    padding-top: 1em;
 }
 
 
